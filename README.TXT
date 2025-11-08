@@ -36,3 +36,6 @@
     previousOperator: ' '
     
     it is in the same state as the previous clear
+    
+29. we can make one field called result then in the constructor we initialize it to 0 and for example we can change the plus method to result += value; and value would be a
+    value we enter in the parameter.
