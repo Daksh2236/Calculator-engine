@@ -39,3 +39,15 @@
     
 29. we can make one field called result then in the constructor we initialize it to 0 and for example we can change the plus method to result += value; and value would be a
     value we enter in the parameter.
+    
+30. i cant run this with my version but the previous version works
+    
+    clear() : resets everything
+    numberPressed(9): displayValue: 9
+    plus(): 9 "+" 
+    numberPressed(1): displayValue: 1
+    minus(): 9+1 "-" 
+    numberPressed(4) — displayValue: 4
+    equals(): calculates 9+1-4=6
+    
+    yes the answer appears correctly

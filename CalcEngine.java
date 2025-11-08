@@ -39,7 +39,7 @@ public class CalcEngine
      */
     public void numberPressed(int number)
     {
-        displayValue = displayValue * 10 + number;
+            displayValue = displayValue * 10 + number;
     }
 
     /**
