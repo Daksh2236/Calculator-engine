@@ -14,3 +14,25 @@
     it should always return the answer 7
     
 24. When done with the minus the value drops to 5 then to -13
+
+26. method called: numberPressed(4)
+    displayvalue: 4 
+    leftOperand: 0 
+    previousOperator: ' '
+    
+    method called: equals()
+    displayvalue: 4 
+    leftOperand: 0 
+    previousOperator: ' '
+    
+    method called: getDisplayValue()
+    displayvalue: 4 
+    leftOperand: 0 
+    previousOperator: ' '
+    
+28. method called: clear()
+    displayvalue: 0 
+    leftOperand: 0 
+    previousOperator: ' '
+    
+    it is in the same state as the previous clear
